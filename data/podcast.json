@@ -4,7 +4,7 @@
   "link": "https://seekgodwithdaniel.dailyaudio.cf",
   "language": "en-us",
   "description": "This 21-day journey can be started at any time of the year. Whenever you feel the call to reset, refocus, or draw closer to God, these days are here to guide you with Scripture, reflection, prayer, and simple daily practices. The structure comes from the example of Daniel, who set his heart to seek God for three weeks. These 21 days invite you into a rhythm of consistency and spiritual focus.",
-  "feedUrl": "https://yourdomain.com/api/rss",
+  "feedUrl": "https://rss-feed-21-day-daniel-fast.vercel.app/api/rss",
   "author": "Eric Kouassi",
   "summary": "The Daniel Fast is a partial fast rooted in Scripture. It emphasizes simple, plant-based foods and a posture of humility before God.",
   "owner": {
